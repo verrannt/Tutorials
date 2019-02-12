@@ -1,2 +1,2 @@
 # Tutorials
-Collection of tutorials, mostly gradient-based machine learning, deep learning
+Some tutorials, mostly gradient-based machine learning, deep learning
